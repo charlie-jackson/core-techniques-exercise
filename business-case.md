@@ -6,7 +6,7 @@
 
 UrbanEats current success means the company is now looking to expand its operations into new cities. Out of three cities analysed, we recommend opting to expand into City B. Having consulted with regulatory bodies, their regulatory requirements align with our values, and the demographic of the population should ensure continued growth.
 
-### 2. Solution
+### 2. Proposed Solution
 
 We have conducted research into three potential cities to determine where the strengths and weaknesses lie in each option (see decision-matrix). We recommend expanding UrbanEats into City B, which has a large population, low unemployment, high income levels (resulting in higher levels of disposable income) and high smartphone uptake (critical in terms of access to our service).
 
