@@ -20,7 +20,7 @@ We have identified the primary risks for our expansion as being high competition
 
 ### 5. Value Analysis
 
-City B wins across the board in terms of value to this project. Higher income levels means higher disposible income (for spending on restaurant food); higher population means more potential customers; number of restaurants means more potential for revenue growth; low average time for competitors should ensure customer satisfaction which will ultimately result in repeat business.
+City B wins across the board in terms of value to this project. Higher income levels means higher disposable income (for spending on restaurant food); higher population means more potential customers; number of restaurants means more potential for revenue growth; low average time for competitors should ensure customer satisfaction which will ultimately result in repeat business.
 
 ### 6. Milestones
 
